@@ -4,7 +4,7 @@ title: "9cv9 Vietnam Transport Hackathon"
 date: 2017-04-15
 excerpt: "Organized by 9cv9 - How to solve Traffic Congestion problem"
 tags: [hackathon]
-comments: false
+comments: true
 ---
 
 ## The Beginning

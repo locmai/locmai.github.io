@@ -49,16 +49,8 @@ layout: compress
                 
                 {% include meta.html %}
                 </div>
-                {% if page.comments %}
-                    <div class="fb-comments" id="fb-comments" data-href="var1" data-width="100%" data-numposts="5"></div>
-                    <script>
-                        window.onload = function() {
-                            var currentUrl = window.location.href;
-                            document.getElementById("fb-comments").setAttribute("data-href",currentUrl);
-                        }
-                    </script>
-                {% endif %}
-            </div>
+                
+                {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section>
         </div>
     </header>
     {% include scripts.html %}
