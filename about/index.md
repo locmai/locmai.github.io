@@ -2,24 +2,16 @@
 layout: page
 title: About me
 tags: [about]
-date: 2017-03-16
+date: 2018-03-9
 comments: false
 ---
 Hi! 
-I am studying Software Engineering. I have a firm fundamental of requirement engineering, design, coding, testing and overall the software development.
+I am a Software Test Engineer at KMS Technology. 
 
-Until now I have programming with Java,C# and doing some mini Android projects. I'm going to focus more on Java and Python this year.
+I've been mostly focused on researching for Performance testing solutions for a year. And throughout the process, I've learned many things from my colleagues. 
 
-For now I’m an R&D Intern in Testing at [KMS Technology](kms-technology.com) which open many challenges for me in the Software Testing field. 
+After a while, I started doing something new like building test automation framework with Java, working with Linux systems and optimize servers' configurations, working with data and building pet projects with Python.
 
-This blog is for my goals tracking and practice to improve my English writing skills.
+For now, I'm just trying my best to be the better version of myself.
 
-I'm also a big fan of Linkin Park, Hip Hop music and Japanese culture.
-
-{% capture images %}
-    http://i.imgur.com/j3a9Wc7.jpg
-    http://i.imgur.com/aHoffHu.jpg
-{% endcapture %}
-{% include gallery images=images cols=2 %}
-
-
+Hope you will enjoy reading my blog posts.

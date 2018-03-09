@@ -1,11 +1,10 @@
 # Site
 title:              Loc Mai
 bio:                >
-                    "Change is one of the most difficult things that we face,but change is inevitable"  
-                    - Hospin -
-description:        "I know how to write Hello World"
+                    "Software Test Engineer"  
+description:        "I know how to write Hello World programs and test them"
 reading_time:       true
-words_per_minute:   200
+words_per_minute:   100
 logo:               'assets/img/logo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
@@ -42,7 +41,7 @@ disqus_shortname:   locmai
 #bing-verify:
 email:              locmai0201@gmail.com
 #twitter:            AlvissD
-facebook:           alviss.shinoda
+facebook:           locmai0201
 github-url:         locmai
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           loc-mai-b5200b147
