@@ -8,7 +8,7 @@ feature: https://i.imgur.com/Gyr4bw4.jpg
 comments: true
 ---
 
-# Zalo Hackathon 2017 - AI Challenges
+# Zalo Hackathon 2017 - AI Challenge
 
 Bài viết này mình chia sẻ lại một phần trải nghiệm kì Hackathon với nội dung về ứng dụng AI của Zalo gần cuối năm 2017.
 
@@ -27,7 +27,7 @@ OK. Đó là vòng loại.
 
 Điểm thú vị ở kì Hackathon này chính là đề bài cụ thể chỉ được đưa ra tới khi Hacking day bắt đầu, còn lại tất cả các team chỉ biết nội dung tổng quát là ứng dụng AI,AR và IoT. Một lát nữa mình sẽ đi sâu hơn, còn bây giờ thì tới phần quan trọng nhất của những cuộc thi Hackathon ... đồ ăn
 
-## Đồ ăn (Phase 1)
+## Đồ ăn
 
 Mục đích chính khi tham gia những cuộc thi Hackathon, buổi sáng trước khi bắt đầu cuộc thi, Ban Tổ chức chuẩn bị sẵn một tiệc trà. Đại khái có các thứ như Trà, cà phê, sữa tươi và nước ngọt, đồ ăn thì sẽ có các món snack, bánh mì các loại. Đại khái là mình chưa cần biết chuyện gì sẽ xảy ra, nhưng cứ bốc trước một núi đồ ăn sáng về vị trí của team rồi thưởng thức buổi sáng.
 
@@ -42,7 +42,7 @@ Sau đó thì tại các bàn bày đồ ăn cũng có tráng miệng như trái
 
 <figure>
 	<img src="https://i.imgur.com/EY2gOnt.jpg">
-	<figcaption>Căn da bụng, trùng da mắt ...</figcaption>
+	<figcaption>Căng da bụng, trùng da mắt ...</figcaption>
 </figure>
 
 Từ chiều tới tối thì cũng có phần cơm như bữa trưa và bàn đồ ăn thì vẫn đầy ắp bánh mì, nước uống đủ loại.
