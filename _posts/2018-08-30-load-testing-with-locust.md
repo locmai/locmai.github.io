@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Load testing with Locust"
-date: 2018-04-13
+date: 2018-08-30
 excerpt: "Getting started with Locust and the basic APIs"
-tags: [hackathon]
+tags: [performance]
 feature: https://toilatester.files.wordpress.com/2018/08/charts.png
 comments: true
 ---
