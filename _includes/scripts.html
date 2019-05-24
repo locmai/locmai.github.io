@@ -6,21 +6,25 @@
     <script src="{{ site.url }}/assets/js/jquery.fitvid.min.js"></script>
     <script src="{{ site.url }}/assets/js/scripts.js"></script>
 
-        <script
-          id='athenka-script-tag'
-          chatboxWidth='382px'
-          chatboxHeight='456px'
-          userTextColor='#ffffff'
-          userBackgroundColor='#545465'
-          botTextColor='#242951'
-          botBackgroundColor='#f3f5fa'
-          channelId='f6129652-a968-4a39-bee7-c77aec71a5fd'
-          channelToken='68b3984f-af4b-4c78-94b1-aaeccade73f3'
-          botId='34b18b31-6f60-4dd2-9bca-fc94bc675634'
-          type='text/javascript' 
-          chatboxTitle='I'm not here but you can ask Luna!'
-          src='https://chatbox.athenka.com/chatbox.js'>
-        </script>
+        
+          <!-- Athenka script tag (chatbox.js) -->
+          <script>
+            (function(a,t,h,e,n,ka){
+              a.addEventListener("load", function(){
+                var boby=t.getElementsByTagName('body')[0]; 
+                var bot=t.createElement('script');
+                bot.async=1;
+                bot.src = h;
+                bot.type='text/javascript';
+                bot.setAttribute('id', 'athenka-script-tag');
+                bot.setAttribute('channelId', '3aa22a10-f236-414a-b6a5-8e0820f96e2f');
+                bot.setAttribute('channelToken', '6e1c72d7-fefd-473d-987d-f8eee9dc2ace');
+                bot.setAttribute('botId', 'd21bdf43-d7d6-4698-87d2-1db52b7a6385');
+                boby.appendChild(bot);
+              });  
+            })(window, document, 'https://chatbox.athenka.com:/chatbox.js');                      
+          </script>        
+      
       
     {% if site.google.analytics %}
     <!-- Asynchronous Google Analytics snippet -->
