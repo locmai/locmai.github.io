@@ -1,8 +1,8 @@
 # Site
 title:              Loc Mai
 bio:                >
-                    "Software Test Engineer"  
-description:        "I know how to write Hello World programs and test them"
+                    "Defining myself"  
+description:        "I know how to write Hello World programs"
 reading_time:       true
 words_per_minute:   100
 logo:               'assets/img/logo.jpg'
@@ -40,7 +40,7 @@ disqus_shortname:   locmai
   #ad-slot:
 #bing-verify:
 email:              locmai0201@gmail.com
-#twitter:            AlvissD
+twitter:            locmai
 facebook:           locmai0201
 github-url:         locmai
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
