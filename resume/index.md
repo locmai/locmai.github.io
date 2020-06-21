@@ -15,30 +15,9 @@ locmai0201@gmail.com
 
 Ho Chi Minh, Viet Nam
 
-## EDUCATION
-Van Lang University
-	             	
-Bachelor of Software Engineering - Carnegie Mellon University Program
-
-Expected Graduation Date:  August 2018	
-
-## TECHNICAL SKILLS
-* Proficient with programming languages: Python & Java
-* Familiar with Load testing tools: JMeter, Locust, Gatling
-* Familiar with MVC web frameworks and web development especially with Django and Flask
-
 ## WORK EXPERIENCE
 
-KMS Technology 		Software Test Engineer	December 2017 – Present
-
-Project: Center of Excellence
-* Audit Software projects and provide good practices in Software testing
-* Design and conduct training programs for Quality Assurance Engineers at KMS Technology
-* Develop, maintain and execute test cases for Chat Bot project
-* Investigate defect reports and isolate their causes
-* Prepare test documentation and review with development team
-* Work on the interpretation of Quality Assurance issues and problems for technical and non-technical users
-* Research and conduct workshops on Performance testing and Testing frameworks  
+LinkedIn: https://www.linkedin.com/in/locmai0201/
 
 ## INTERN EXPERIENCE
 KMS Technology		Customer Support Intern	October 2015 – October 2016
@@ -66,10 +45,24 @@ Project: Center of Excellence
 * 9cv9 Transportation Hackathon 2017		Runner-Up		April 2017 
 * Zalo Hackathon 2017				Top 10 team		December 2017
 
+
+## TECHNICAL SKILLS
+* Jave, Python
+* Kubernetes, Helm, Istio, Argo Workflow, Argo CD
+* Jenkins, GitHub Action
+* AWS, GCP, Azure
+* Terraform, Puppet
+* DevOps
+* Performance Testing
+
 ## REFERENCE
 ### Thao Vo
 * QA Architect at KMS Technology
 * Email: thaovo@kms-technology.com 
+
+### Minh Hoang
+* QA Architect at KMS Technology
+* Email: minhhoang@kms-technology.com 
 
 
 
